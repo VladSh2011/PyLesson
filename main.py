@@ -25,4 +25,4 @@ print(cat.age)
 cat.age = 5
 print(cat.age)
 print(cat.breed)
-
+print(12)
